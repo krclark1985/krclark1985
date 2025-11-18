@@ -1,4 +1,4 @@
-#### I'm a software developer focused on building scalable and efficient backends and databases. Currently an Integration Engineer at ParentSquare, working on data integrations, bug fixes, and maintenance of the Remind communication platform. Production experience with Ruby on Rails and other experience building side project apps using Python, Flask, and FastAPI. 10+ years in the classroom as a 4th-6th grade teacher. I love working in EdTech and for a company that serves school districts, educators, students, and families!
+#### I'm a software developer focused on building scalable and efficient backends. Currently an Integration Engineer at ParentSquare, working on data integrations, bug fixes, and maintenance of the Remind communication platform. Production experience with Ruby on Rails and other experience building side project apps using Python, Flask, and FastAPI. 10+ years in the classroom as a 4th-6th grade teacher. I love working in EdTech and for a company that serves school districts, educators, students, and families!
 
 <!--
 **krclark1985/krclark1985** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
